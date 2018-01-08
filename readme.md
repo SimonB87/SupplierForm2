@@ -1,4 +1,4 @@
-#Web form for adding anew supplier
+# Web form for adding anew supplier
 
 ### Task:
 
