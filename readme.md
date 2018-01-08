@@ -9,6 +9,6 @@ The input is secured against adding HTML harmful commands.
 
 ### Source:
 
-[More Info on my personal website](https://www.simonburyan.cz)
+[More Info on my personal website](http://www.simonburyan.cz)
 Online platform to study for web development
 
