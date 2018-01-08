@@ -1,0 +1,12 @@
+info - fro charset utf-8
+
+- required to add:
+
++ for index.php
+<meta charset="utf-8" />
+
++ for process.php 
+header('Content-Type: text/html; charset=utf-8');
+
++ and file
+pie.htc
